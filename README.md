@@ -1,5 +1,3 @@
-Awesome Title
-=============
+# Github Test
 
-Awesome Repository Explanation
-
+This repository is for experimental purpose only!
